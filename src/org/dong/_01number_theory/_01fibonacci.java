@@ -5,7 +5,9 @@ package org.dong._01number_theory;
  * @time 2020-02-16 8:29
  */
 public class _01fibonacci {
-    /* 0 1 2 3 4 5
+    /* *
+     * 斐波那契
+     * 0 1 2 3 4 5
      * 0 1 1 2 3 5 8 13 ....
      */
 
